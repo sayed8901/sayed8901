@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayed8901&label=Profile%20views&color=0e75b6&style=flat" alt="sayed8901" /> </p>
 
-- 🔭 I’m currently working on **SCIC, Programming Hero**
+- 🔭 I’m currently working on **SCPC, Programming Hero**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m planning to learn **Redux, NextJS**
+- 👯 I’m planning to learn **Redux**
 
 - 👨‍💻 My portfolio link: [https://portfolio-of-sayed.netlify.app](https://portfolio-of-sayed.netlify.app)
 
