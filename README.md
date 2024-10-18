@@ -1,6 +1,6 @@
 ![logo](https://github.com/sayed8901/sayed8901/blob/main/myPortfolioBannar.jpg)
 <h1 align="center">Hi 👋, I'm Md. Sayed Hossain</h1>
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 <p align="center">Hello! I am Md. Sayed Hossain. I have completed MBA in Management. I have a deep passion in the software engineering sector. It gives me much excitement & also allows me to apply my creativity throughout my work.
 <br>
 I have adequate knowledge of C, C++, Data structure and Algorithm, Python, Django, DRF and some database tools like SQL, postgreSQL, superbase, etc. I also have enough knowledge on HTML, CSS, Bootstrap, Tailwind, Responsive design, JavaScript, React.js & many more.
