@@ -1,28 +1,33 @@
 ![logo](https://github.com/sayed8901/sayed8901/blob/main/myPortfolioBannar.jpg)
 <h1 align="center">Hi 👋, I'm Md. Sayed Hossain</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h2 align="center">Hello! I am Md. Sayed Hossain. I have completed MBA in Management. I have a deep passion in the software engineering sector. It gives me much excitement & also allows me to apply my creativity throughout my work.
+<br>
+I have adequate knowledge of C, C++, Data structure and Algorithm, Python, Django, DRF and some database tools like SQL, postgreSQL, superbase, etc. I also have enough knowledge on HTML, CSS, Bootstrap, Tailwind, Responsive design, JavaScript, React.js & Debugging.
+<br>
+I have good communication skills. I am self-motivated, quick-learner, team player and I am always enthusiastic about learning new tech.</h2>
 
 <img align="right" alt="animated img" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayed8901&label=Profile%20views&color=0e75b6&style=flat" alt="sayed8901" /> </p>
 
-- 🔭 I’m currently working on **SCPC, Programming Hero**
+- 🔭 I’m currently working on <a href="https://hrcorp.netlify.app" target="blank">**HRCorp**, A complete HR ERP solution</a>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Django Rest Framework**
 
-- 👯 I’m planning to learn **Redux**
+- 👯 I’m planning to learn **Some reliable database solutions**
 
 - 👨‍💻 My portfolio link: [https://portfolio-of-sayed.netlify.app](https://portfolio-of-sayed.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, RWD, tailwind, javascript, react, nodejs, express, mongoDB**
+- 💬 Can work with: **Python, C, C++, Django, DRF, JavaScript, ReactJS**
 
 - 📫 You can reach me at: **sayed91515@gmail.com**
 
-- 📄 Check out my resume: [https://drive.google.com/file/d/1dHkfi4GrDYTOgDzYHyZEiUYMndGCePc7/view?usp=sharing](https://drive.google.com/file/d/1dHkfi4GrDYTOgDzYHyZEiUYMndGCePc7/view?usp=sharing)
+- 📄 Check out my resume: [https://drive.google.com/file/d/1PEo44uo9PucLLd_aYnhwsv8q_jnOp3BT/view?usp=sharing](https://drive.google.com/file/d/1PEo44uo9PucLLd_aYnhwsv8q_jnOp3BT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-sayed-hossain-24297315a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sayed-hossain-24297315a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayed8901/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sayed8901/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100010385951866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010385951866" height="30" width="40" /></a>
 </p>
 
