@@ -1,11 +1,11 @@
 ![logo](https://github.com/sayed8901/sayed8901/blob/main/myPortfolioBannar.jpg)
 <h1 align="center">Hi 👋, I'm Md. Sayed Hossain</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
-<h2 align="center">Hello! I am Md. Sayed Hossain. I have completed MBA in Management. I have a deep passion in the software engineering sector. It gives me much excitement & also allows me to apply my creativity throughout my work.
+<p align="center">Hello! I am Md. Sayed Hossain. I have completed MBA in Management. I have a deep passion in the software engineering sector. It gives me much excitement & also allows me to apply my creativity throughout my work.
 <br>
 I have adequate knowledge of C, C++, Data structure and Algorithm, Python, Django, DRF and some database tools like SQL, postgreSQL, superbase, etc. I also have enough knowledge on HTML, CSS, Bootstrap, Tailwind, Responsive design, JavaScript, React.js & Debugging.
 <br>
-I have good communication skills. I am self-motivated, quick-learner, team player and I am always enthusiastic about learning new tech.</h2>
+I have good communication skills. I am self-motivated, quick-learner, team player and I am always enthusiastic about learning new tech.</p>
 
 <img align="right" alt="animated img" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -19,7 +19,7 @@ I have good communication skills. I am self-motivated, quick-learner, team playe
 
 - 👨‍💻 My portfolio link: [https://portfolio-of-sayed.netlify.app](https://portfolio-of-sayed.netlify.app)
 
-- 💬 Can work with: **Python, C, C++, Django, DRF, JavaScript, ReactJS**
+- 💬 Can work with: **Python, C, C++, Django Rest Framework, JavaScript, ReactJS**
 
 - 📫 You can reach me at: **sayed91515@gmail.com**
 
